@@ -139,21 +139,6 @@ From the analysis:
 
 ---
 
-## 📁 Project Files
 
-| File Name | Description |
-|------------|-------------|
-| `ecommerce_furniture_dataset_2024 (2).csv` | Input dataset used for SQL analysis |
-| `furniture_sql_report.docx` | Detailed SQL analysis report in Word format |
-| `furniture_sql_report.pdf` | Final polished PDF report |
-| `README.md` | Project documentation and SQL details |
-
----
-
-## 📌 Author Notes
-
-- All data and results are for educational and analytical purposes.  
-- No personally identifiable information or brand data is included.  
-- This project is anonymized as requested.  
 
 ---
